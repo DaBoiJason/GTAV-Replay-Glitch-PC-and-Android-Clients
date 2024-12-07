@@ -24,11 +24,15 @@ Both clients can communicate with a server over a TCP connection to trigger a re
 ## Requirements
 
 ### PC Client
+You can download the **PC Client** from the following link:  
+[Download PC Client](https://github.com/DaBoiJason/GTAV-Replay-Glitch-PC-and-Android-Clients/tree/main/v1.0.0%20Release/Windows%20Client%20(exe))
 - Windows 10 or newer
 - .NET Framework 4.7.2 or higher
 - Administrator privileges (to interact with network adapters)
 
 ### Android Client
+You can download the **Android Client APK** from the following link:  
+[Download APK](https://github.com/DaBoiJason/GTAV-Replay-Glitch-PC-and-Android-Clients/tree/main/v1.0.0%20Release/Android%20Client%20(apk))
 - Android 5.0 (Lollipop) or newer
 - Internet connection for communication with the server
 
