@@ -38,6 +38,13 @@ Both clients can communicate with a server over a TCP connection to trigger a re
 
 The PC client is a Windows application built with C# and Windows Forms. It listens for incoming packets from the Android client and reacts accordingly by disabling/enabling network adapters based on received commands.
 
+
+<div align="center">
+  <img src="/assets/android.gif" width="45%" />
+  <img src="/assets/windows.gif" width="45%" />
+</div>
+
+
 ### Installation
 
 1. Download the latest release from the **Releases** section.
@@ -54,6 +61,12 @@ The PC client needs to be run **as an administrator** in order to interact with 
 ### How It Works
 
 1. The PC client listens for incoming connections on a specified port.
+- Click start to start the listener from windows.
+- Connect from your phone entering the details provided by the Windows client and press connect.
+- Select from the Windows client the adapter that you are currently using for your computer's connection.
+- Do the heist and when you want to do the replay glitch just hit replay on the phone.
+- After you are done to re-enable the adapter you need to select it from the list and click the "Enable Selected" button to enable the selected adapter again.
+-After every replay glitch you will need to reconnect your phone with the Windows Client. 
 2. When it receives a specific packet from the Android client (such as "KEEP_ALIVE" or "REPLAY_GLITCH"), it will either send a keep-alive response or trigger a glitch by enabling/disabling network adapters.
 3. It will continue checking for packets and responding to the Android client until the application is closed.
 
