@@ -40,8 +40,8 @@ The PC client is a Windows application built with C# and Windows Forms. It liste
 
 
 <div align="center">
-  <img src="/assets/android.gif" width="45%" />
-  <img src="/assets/windows.gif" width="45%" />
+  <img src="/assets/android.gif" width="25%" />
+  <img src="/assets/windows.gif" width="65%" />
 </div>
 
 
