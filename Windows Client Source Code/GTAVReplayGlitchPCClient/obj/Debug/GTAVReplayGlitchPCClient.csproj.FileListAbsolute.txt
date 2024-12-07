@@ -1,0 +1,15 @@
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\bin\Debug\GTAVReplayGlitchPCClient.exe.config
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\bin\Debug\GTAVReplayGlitchPCClient.exe
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\bin\Debug\GTAVReplayGlitchPCClient.pdb
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\bin\Debug\Newtonsoft.Json.dll
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\bin\Debug\System.CodeDom.dll
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\bin\Debug\Newtonsoft.Json.xml
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\bin\Debug\System.CodeDom.xml
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\obj\Debug\GTAVReplayGlitchPCClient.csproj.AssemblyReference.cache
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\obj\Debug\GTAVReplayGlitchPCClient.Form1.resources
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\obj\Debug\GTAVReplayGlitchPCClient.Properties.Resources.resources
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\obj\Debug\GTAVReplayGlitchPCClient.csproj.GenerateResource.cache
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\obj\Debug\GTAVReplayGlitchPCClient.csproj.CoreCompileInputs.cache
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\obj\Debug\GTAVRepl.E73E3555.Up2Date
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\obj\Debug\GTAVReplayGlitchPCClient.exe
+D:\VSrepos\GTAVReplayGlitchPCClient\GTAVReplayGlitchPCClient\obj\Debug\GTAVReplayGlitchPCClient.pdb
