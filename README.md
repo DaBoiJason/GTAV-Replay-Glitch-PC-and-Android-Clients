@@ -46,7 +46,7 @@ The PC client is a Windows application built with C# and Windows Forms. It liste
 
 ### Running as Administrator
 
-The PC client needs to be run **as an administrator** in order to interact with network adapters and disable or enable them.
+The PC client needs to be run **as an administrator** in order to interact with network adapters and disable or enable them although it is allready set to be running with admin privilages incase it isn't you will have to do the following.
 
 - Right-click on the `GTAVReplayGlitchPCClient.exe` file.
 - Select **Run as Administrator**.
